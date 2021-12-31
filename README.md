@@ -1,6 +1,6 @@
 # SpotifyPortal
-A React web app made in conjunction with Solidity to allow users to contribute their Spotify playlists to a blockchain. 
-
+A React web app made in conjunction with Solidity to allow users to contribute their Spotify playlists to a blockchain. Not currently hosted anywhere. 
+![Photo Of Portal]()
 ## To Do
 
 - Improve playlist box UI 
